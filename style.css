@@ -1,0 +1,99 @@
+.body {
+    background: #FFFFFF;
+    margin: 0;
+}
+.box {
+    background: #FFFFFF;
+}
+.fm {
+    width: 200px;
+    height: 231px;
+}
+.lm {
+    width: 200px;
+    height: 231px;
+}
+.cr {
+    width: 200px;
+    height: 231px;
+}
+.cm {
+    width: 200px;
+    height: 231px;
+}
+.n {
+    width: 200px;
+    height: 231px;
+}
+.lj {
+    width: 200px;
+    height: 231px;
+}
+.rf {
+    width: 200px;
+    height: 231px;
+}
+.sc {
+    width: 200px;
+    height: 231px;
+}
+.mr {
+    width: 200px;
+    height: 231px;
+}
+.ms {
+    width: 200px;
+    height: 231px;
+}
+@media screen and (min-width: 500px) {
+    .box {
+        height: 1500px;
+        width: 500px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 30px;
+        padding-inline: 35px;
+        margin-top: 30px;
+        margin: 0 auto;
+    }
+}
+@media screen and (min-width: 750px) {
+    .box {
+        height: 1500px;
+        width: 500px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 30px;
+        padding-inline: 160px;
+        margin-top: 30px;
+        margin: 0 auto;
+    }
+}
+@media screen and (min-width: 1000px) {
+    .box {
+        height: 1000px;
+        width: 1000px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 30px;
+        padding-inline: 55px;
+        margin-top: 30px;
+        margin: 0 auto;
+    }
+}
+@media screen and (min-width: 1500px) {
+    .box {
+        height: 1000px;
+        width: 1000px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 30px;
+        padding-inline: 305px;
+        margin-top: 30px;
+        margin: 0 auto;
+    }
+}
